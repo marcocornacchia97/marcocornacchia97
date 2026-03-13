@@ -1,0 +1,4 @@
+Si tratta di una Glicoproteina plasmatica di fase acuta sintetizzata dal fegato, si occupa di formare un legame irreversibile con i dimeri di emoglobina che si ritrovano nel torrente ematico a seguito di una lisi eritrocitaria. Questo impedisce all'emoglobina di essere espulsa con le urine (emoglobinuria). il complesso HP-HB viene rimosso rapidamente dal sistema reticolo endoteliale di fegato e milza. 
+
+Essendo una **proteina di fase acuta positiva**, i suoi livelli **aumentano** in risposta a stimoli flogistici mediati dalle citochine (IL-1, IL-6) per esempio in stati infiammatori acuti e cronici, infezioni batteriche, neoplasie, necrosi tissutale o sindrome nefrosica (per ritenzione selettiva data il peso molecolare elevato).
+Si **riduce** invece durante l'**emolisi intravascolare**.
