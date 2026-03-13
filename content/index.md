@@ -1,5 +1,5 @@
 ---
 title: Indice
 ---
-- [[PATOLOGIE EMATOLOGICHE]] 
-- [[EMOGASANALISI]]
+- [[Patologie Ematologiche]] 
+- [[Emogasanalisi]]
