@@ -1,5 +1,5 @@
 # CID
-Fa parte della macrocategoria delle [[Patologie Ematologiche  ...]]
+Fa parte della macrocategoria delle [[Patologie Ematologiche]]
 1. Attivazione di trombina da parte di endotossine batteriche / complessi antigene anticorpo / danno endoteliale
 2. Progressivo consumo di anticoagulanti naturali come antitrombina III
 3. Aumento della produzione di fibrina -> ischemia tissutale. 
