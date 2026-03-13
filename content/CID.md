@@ -1,5 +1,5 @@
 # CID
-Fa parte della macrocategoria delle [[COAGULOPATIE]]
+Fa parte della macrocategoria delle [[PATOLOGIE EMATOLOGICHE]]
 1. Attivazione di trombina da parte di endotossine batteriche / complessi antigene anticorpo / danno endoteliale
 2. Progressivo consumo di anticoagulanti naturali come antitrombina III
 3. Aumento della produzione di fibrina -> ischemia tissutale. 
